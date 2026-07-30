@@ -132,28 +132,6 @@ The analysis covers:
 - Which cities dominate startup investments?
 - Which industries are growing the fastest?
 
----
-
-## 📷 Sample Visualizations
-
-### Funding Trend
-
-> Add screenshot here
-
-### Top Funded Cities
-
-> Add screenshot here
-
-### Top Industries
-
-> Add screenshot here
-
-### Investment Type Distribution
-
-> Add screenshot here
-
----
-
 ## 💡 Key Insights
 
 - Bengaluru, Mumbai, and New Delhi received the highest startup funding.
