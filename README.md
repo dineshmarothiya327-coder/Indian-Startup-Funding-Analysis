@@ -222,10 +222,6 @@ jupyter notebook
 ## 👨‍💻 Author
 
 **Dinesh Marothiya**
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
